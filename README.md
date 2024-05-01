@@ -18,3 +18,29 @@ The work is composed of multiple circles, some of which have a line in the cente
 
 
 ### Part 2: Coding Technique Exploration：
+>Use "arc" to draw an arc
+
+<img src="assets/arc.png" width="200px">
+
+[Link Text](https://p5js.org/reference/#/p5/arc)
+
+>Using "sin", to make the magnitude of the arc change with time
+
+<img src="assets/sin.png" width="200px">
+
+[Link Text](https://p5js.org/reference/#/p5/sin)
+
+>Use "createGraphics" to create several small canvases.
+
+<img src="assets/creatCancas.png" width="200px">
+[Link Text](https://p5js.org/reference/#/p5/createGraphics)
+
+>Use the for loop to draw multiple shapes on a small canvas.
+
+<img src="assets/for.png" width="200px">
+[Link Text](https://p5js.org/zh-Hans/reference/#/p5/for)
+
+>Use "rotate" command to rotate the small canvas based on the frame number and position parameters.
+
+<img src="assets/rotate.png" width="200px">
+[Link Text](https://p5js.org/reference/#/p5/rotate)

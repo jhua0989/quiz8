@@ -8,12 +8,10 @@ The work is composed of multiple circles, some of which have a line in the cente
 
 
 >This is the overall effect:
-
-<div align=centre><img src="assets/image3.png" width="200px">
+ <div align=centre><img src="assets/image3.png" width="200px">
 
 
 >This is what happens when each circle turns:
-
  <div align=centre><img src="assets/image2.png" width="200px">
  <div align=centre><img src="assets/image1.png" width="200px">
 

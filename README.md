@@ -5,6 +5,7 @@ Our group chose the work "Wheels of fortune" by the artist Pacita Abad for creat
 <img src="assets/Wheels.jpg" width="200px">
 
 The work is composed of multiple circles, some of which have a line in the center. These lines remind me of the hands of a CD player. My inspiration came from visualizing these circles in the shape of a CD.
+The circle seems to me to represent completeness and circularity, in keeping with the eternal flow of music. This pattern presents a sense of coherence and harmony, resonates with the melody and rhythm of the music, gives the work a more dynamic sense, and this design is both retro and modern.
 
 
 >This is the overall effect:
